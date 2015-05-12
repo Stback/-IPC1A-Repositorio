@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Diagramas_de_Clase
+Bundle-SymbolicName: Diagramas_de_Clase
+Bundle-Version: 1.0.0.qualifier
+Export-Package: ejercicio1,
+ ejercicio2,
+ ejercicio3,
+ ejercicio4,
+ ejercicio5,
+ ejercicio6,
+ ejercicio7
